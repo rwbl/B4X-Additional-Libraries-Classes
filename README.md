@@ -19,4 +19,5 @@ Monitor the level of a device, i.e. Battery (%), Voltage (V), Tank Level (m3) an
 To [Anywhere Software](http://www.b4x.com) for the B4X products.
 
 ## Licence
-GNU General Public License v3.0.
+GNU General Public License v3.0.  
+Developed for personal use only.
