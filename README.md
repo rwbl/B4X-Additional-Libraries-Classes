@@ -12,6 +12,9 @@ Display a meter value or to set a meter value via touch or mouse click.
 Display a device state or to set a device state via touch or mouse click.
 A device could be basically anything which can have a state true or false.
 
+[xInstrumentationValueIndicator](https://www.b4x.com/android/forum/threads/b4x-customview-class-xinstrumentationvalueindicator.136240/) [Class]  
+Display an indicator with value and (optional) unit.
+
 [xLevelIndicator](https://www.b4x.com/android/forum/threads/b4x-customview-class-xlevelindicator.135894/) [Class]  
 Monitor the level of a device, i.e. Battery (%), Voltage (V), Tank Level (m3) and more.
 
