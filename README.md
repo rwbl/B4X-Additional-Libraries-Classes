@@ -18,6 +18,9 @@ Display an indicator with value and (optional) unit.
 [xLevelIndicator](https://www.b4x.com/android/forum/threads/b4x-customview-class-xlevelindicator.135894/) [Class]  
 Monitor the level of a device, i.e. Battery (%), Voltage (V), Tank Level (m3) and more.
 
+**Note**
+The CustomViews have been tested with B4A and B4J, not with B4i.
+
 ## Credits
 To [Anywhere Software](http://www.b4x.com) for the B4X products.
 
